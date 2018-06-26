@@ -3,7 +3,7 @@ title:              James Roberts
 bio:                'James Roberts is a tattoo artist hailing from Pittsburgh, PA'
 description:        ""
 locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "jamestattooist" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 defaults:
